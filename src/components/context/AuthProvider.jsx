@@ -6,8 +6,8 @@ const initialState = {
   isAuthenticated: false,
 };
 const FAKE_USER = {
-  name: "arezoo",
-  email: "arezoo@gmail.com",
+  name: "user",
+  email: "user@gmail.com",
   password: "1234",
 };
 
