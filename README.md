@@ -11,3 +11,7 @@ Currently, two official plugins are available:
 open the terminal and run "npm i"
 then run "npm run server" (to load database)
 after that in the new powershell run "npm run dev"
+
+
+
+- for login use these data: email:user@gmail.com**password:1234
